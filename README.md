@@ -41,7 +41,7 @@
 
 <h1>Educational Qualification:</h1>
 <table>
-  <tr>Course</tr>
+  <tr>Course
   <td> B.tech(CSE)</td>
   <td> MPC</td>
   <td>SSC</td>
