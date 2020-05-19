@@ -41,10 +41,22 @@
 
 <h1>Educational Qualification:</h1>
 <table>
-  <tr>Course
+  <th>Course</th>
+  <th>Institution</th>
+  <th>Board</th>
+  <th>Grade</th>
+  <th>Year of passing</th>
+  </tr>
+  <tr>
   <td> B.tech(CSE)</td>
-  <td> MPC</td>
-  <td>SSC</td>
+  <td> Malla Reddy Engineering College</td>
+  <td>Jawaharlal Nehru
+Technology and
+University
+Hyderabad
+</td>
+  <td>9.2</td>
+  <td>2019</td>
   </tr>
   </table>
     
