@@ -1,7 +1,10 @@
 <h1>POOJITHA POCHANA</h1>
-<h3> 66-1-108, Sthambampally,</h3>	Phone: +91 7337413275
-<h3>Kila Warangal, Warangal,</h3>	E-mail:poojithaposhana@gmail.com
-<h3>Telangana, India-506330</h3>	DOB: MAY 7, 1998
+<p> 66-1-108, Sthambampally,</p>	
+<p>Kila Warangal, Warangal,</p>
+<p>Telangana, India-506330</p>
+<p>Phone: +91 7337413275</p>
+<p>E-mail:poojithaposhana@gmail.com</p>
+<p>DOB: MAY 7, 1998</p>
   <h2>Career Objective:</h2>
   <p>Seeking for a challenging position to succeed in an environment of growth and excellence. To earn a job which helps me to improve my knowledge.</p>
   <h2>Professional Experience & Responsibilities </h2>
