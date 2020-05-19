@@ -113,7 +113,9 @@ Database: </h3><p>SQL</p>
 
 <h1>Declaration</h1>
 <p>I hereby declare that the above information is true to the best of my knowledge.</p>
-<h3>Place:</h3><p> Hyderabad</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>P.Poojitha</p>                                                                     
+<h3>Place:</h3><p> Hyderabad</p>
+<div class="horizontalgap" style="width:10px"></div>
+<p>P.Poojitha</p>                                                                     
 
     
 
