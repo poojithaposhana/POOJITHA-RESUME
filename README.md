@@ -58,6 +58,22 @@ Hyderabad
   <td>9.2</td>
   <td>2019</td>
   </tr>
+   <tr>
+  <td> MPC</td>
+  <td> Sumathi Devi Junior College
+</td>
+  <td>State Board</td>
+  <td>91</td>
+  <td>2015</td>
+  </tr>
+   <tr>
+  <td>Sahithi High School</td>
+  <td> 
+</td>
+  <td>9.2</td>
+  <td>2013</td>
+  </tr>
+  
   </table>
     
 
