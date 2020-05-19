@@ -62,13 +62,21 @@ Hyderabad
   <td> MPC</td>
   <td> Sumathi Devi Junior College
 </td>
-  <td>State Board</td>
+  <td>Telangana State
+Board of
+Intermediate
+Education.
+</td>
   <td>91</td>
   <td>2015</td>
   </tr>
    <tr>
+  <td>SSC></td>
   <td>Sahithi High School</td>
-  <td> 
+  <td> Board of
+Secondary
+Education.
+
 </td>
   <td>9.2</td>
   <td>2013</td>
