@@ -83,6 +83,35 @@ Education.
   </tr>
   
   </table>
+  <h1>Technical Skills:</h1>
+<h3>Programming Languages Known:</h3> <p>C, C++, JAVA, C#, .NET</p>
+<h3>Web Designing:</h3><p> HTML, CSS, JavaScript</p>
+<h3>
+Database: </h3><p>SQL</p>
+<h3>Operating Systems:</h3><p> Windows (07, 08, 8.1, 10)</p>
+<h3>Software Tools: </h3><p>JIRA (Bug Tracking, Issue Tracking, and Project Management), WINCAPS-III (Industrial Robotic ARM software) Ansys</p>
+
+<h3>Inter Personal Skills:</h3>
+<ul><li>
+  <li>Ability to learn new concepts</li>
+<li>People Oriented,</li>
+<li>	Good Communication Skills,</li>
+<li>	Self-Motivated and Dedicated</li>
+<li>	Committed Towards Work and Ability to Work in any Kind of Atmosphere</li></ul>
+<h3>Co-curricular Activities:</h3>
+<p>	Participated in Basic In plant Training in CSE at Regional Telecom Training Center, BSNL and Receiving certificate.</p>
+<h3>Personal Profile:</h3>
+<h3>Father’s Name	:   P. Srinivas</h3>
+<h3>Mother’s Name	:   P.RamaDevi</h3>
+<h3>Nationality	:    Indian.</h3>
+<h3>Date of Birth	:	07-05-1998.</h3>
+<h3>Hobbies	:	Listening Music, watching movies, crafts</h3>
+<h3>Languages Known	:	English, Telugu, and Hind</h3>
+
+<h1>Declaration</h1>
+<p>I hereby declare that the above information is true to the best of my knowledge.</p>
+<h3>Place: Hyderabad</h3>
+
     
 
 
