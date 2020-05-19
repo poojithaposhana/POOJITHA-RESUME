@@ -49,7 +49,7 @@
   <th>Board</th>
   <th>Grade</th>
   <th>Year of passing</th>
-  </tr>
+ 
   <tr>
   <td> B.tech(CSE)</td>
   <td> Malla Reddy Engineering College</td>
