@@ -39,6 +39,16 @@
 
 <h3>Job Description:</h3><p> it is a web application using ASP.Net. This Application has provide different modules like Registration, Login, and check available number of seats, Book tickets, Cancel Tickets, and Logout</p>
 
+<h1>Educational Qualification:</h1>
+<table>
+  <tr>Course</tr>
+  <td> B.tech(CSE)</td>
+  <td> MPC</td>
+  <td>SSC</td>
+  </tr>
+  </table>
+    
+
 
   
   
