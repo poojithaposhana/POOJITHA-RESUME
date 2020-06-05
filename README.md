@@ -1,5 +1,5 @@
 <h1>POOJITHA POCHANA</h1>   <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin">
-         <img alt="Qries" src="C:\Users\pp53615\Downloads\download.png"
+         <img alt="" src="C:\Users\pp53615\Downloads\download.png"
          width=150" height="70">
       </a>                     
 <p> 66-1-108, Sthambampally,</p>	
